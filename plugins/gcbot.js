@@ -26,7 +26,7 @@ let fetch = require('node-fetch')
              externalAdReply: { 
                sourceUrl: 'https://youtu.be/RlhkqeUDZrA', 
                title: 'Official group', 
-               body: 'Raa Bot', 
+               body: 'Niluh Bot', 
                thumbnail: pp 
              } 
          }}) 
@@ -45,7 +45,7 @@ https://chat.whatsapp.com/Gapunya
         externalAdReply: {
         	sourceUrl: 'https://instagram.com/inizenscuy/',
             title: 'Gruop Official',
-            body: '© RaaBotz-MD By Claraa San',
+            body: '© NiluhBot-MD By Niluh San',
           thumbnail: await (await fetch('https://telegra.ph/file/f05029f17de62fb420459.jpg')).buffer()
         }
      }
